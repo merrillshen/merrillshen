@@ -1,16 +1,16 @@
-### Hello, I'm Merrill Shen 
+##  About Me: :standing_man:
 
-## Bio:
-
+- Professional Problem Solver
 - B.Eng Mechanical Engineer at Imperial College London (Class of 2022)
 - Currently applying for a Master's in Computer/Data Science 
 - Passionate in materialising ideas in both hardware and software 
 - 2022 Goal: Contribute more to open source projects and become a better software engineer
+- Hobbies: 3D Printing and Cooking
 
 ### Connect with me:
 
-[<img align="left" alt="merrillshen | LinkedIn" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="merrillshen | Instagram" width="26px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" />][instagram]
+[<img align="left" alt="merrillshen | LinkedIn" width="26px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" />][linkedin]
+[<img align="left" alt="merrillshen | Instagram" width="26px" src="https://cdn4.iconfinder.com/data/icons/social-media-2146/512/25_social-512.png" />][instagram]
 
 <br />
 
