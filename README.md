@@ -8,11 +8,11 @@
 - Hobbies: 3D Printing and Cooking
 
 ## Lets Connect  ✉️
-<p align="centre">
-[<img alt="merrillshen | Gmail" width="26px" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" />][email]
-[<img alt="merrillshen | LinkedIn" width="26px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" />][linkedin]
-[<img alt="merrillshen | Instagram" width="26px" src="https://cdn4.iconfinder.com/data/icons/social-media-2146/512/25_social-512.png" />][instagram]
-</p>
+
+[<img align="center" alt="merrillshen | Gmail" width="26px" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" />][email]
+[<img align="center" alt="merrillshen | LinkedIn" width="26px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" />][linkedin]
+[<img align="center" alt="merrillshen | Instagram" width="26px" src="https://cdn4.iconfinder.com/data/icons/social-media-2146/512/25_social-512.png" />][instagram]
+
 <br />
 
 ## Languages and Tools  💻
