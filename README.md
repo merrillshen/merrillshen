@@ -1,4 +1,4 @@
-## About Merrill :standing_man:
+## About Me :standing_man:
 
 - Professional Problem Solver
 - B.Eng Mechanical Engineer at Imperial College London (Class of 2022)
@@ -7,12 +7,12 @@
 - 2022 Goal: Contribute more to open source projects and become a better software engineer
 - Hobbies: 3D Printing and Cooking
 
-## Lets Get Connect  ✉️
-
-[<img align="left" alt="merrillshen | Gmail" width="26px" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" />][email]
-[<img align="left" alt="merrillshen | LinkedIn" width="26px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" />][linkedin]
-[<img align="left" alt="merrillshen | Instagram" width="26px" src="https://cdn4.iconfinder.com/data/icons/social-media-2146/512/25_social-512.png" />][instagram]
-
+## Lets Connect  ✉️
+<p align="centre">
+[<img alt="merrillshen | Gmail" width="26px" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" />][email]
+[<img alt="merrillshen | LinkedIn" width="26px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" />][linkedin]
+[<img alt="merrillshen | Instagram" width="26px" src="https://cdn4.iconfinder.com/data/icons/social-media-2146/512/25_social-512.png" />][instagram]
+</p>
 <br />
 
 ## Languages and Tools  💻
@@ -45,7 +45,7 @@
 
 <!-- GITHUBSTATS:END -->
 
-[email]: merrillshen@gmail.com
+[email]: mailto:merrillshen@gmail.com
 [instagram]: https://www.instagram.com/mellowmerrillshen/
 [linkedin]: https://www.linkedin.com/in/merrillshen/
 [githubstats]: https://github.com/anuraghazra/github-readme-stats
