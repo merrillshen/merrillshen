@@ -15,23 +15,27 @@
 <br />
 
 ### Languages and Tools:
-[<img align="left" alt="Python" width="26px"src:"https://camo.githubusercontent.com/aa96ee3a3352c9c3c2161d3e95698d0885a277ab85d617fe77912627d37a3959/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f707974686f6e2e737667"][]
-[<img align="left" alt="Visual Studio Code" width="26px" src="./node_modules/super-tiny-icons/images/svg/python.svg"][]
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
+
+<img align="left" alt="Python" width="26px" src="./node_modules/super-tiny-icons/images/svg/python.svg"/>
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
 <br />
 <br />
 
 ---
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+### :chart: GitHub Statistics
 
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=merrillshen)](https://github.com/anuraghazra/github-readme-stats)
+<!-- GITHUBSTATS:START -->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=merrillshen)][githubstats]
+<!-- GITHUBSTATS:END -->
 
-</details>
+➡️ [more videos...](https://youtube.com/codestackr)
+
+---
 
 [instagram]: https://www.instagram.com/mellowmerrillshen/
 [linkedin]: https://www.linkedin.com/in/merrillshen/
+[githubstats]: https://github.com/anuraghazra/github-readme-stats
