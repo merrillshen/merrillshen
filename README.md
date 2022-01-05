@@ -1,4 +1,4 @@
-## :standing_man: About Me: 
+## About Me: :standing_man:
 
 - Professional Problem Solver
 - B.Eng Mechanical Engineer at Imperial College London (Class of 2022)
@@ -7,14 +7,14 @@
 - 2022 Goal: Contribute more to open source projects and become a better software engineer
 - Hobbies: 3D Printing and Cooking
 
-### ✉️ Connect with me: 
+## Connect with me: ✉️
 
 [<img align="left" alt="merrillshen | LinkedIn" width="26px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" />][linkedin]
 [<img align="left" alt="merrillshen | Instagram" width="26px" src="https://cdn4.iconfinder.com/data/icons/social-media-2146/512/25_social-512.png" />][instagram]
 
 <br />
 
-### 💻 Languages and Tools:
+## Languages and Tools:💻
 
 <img align="left" alt="Python" width="26px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" />
 <img align="left" alt="Django" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />
