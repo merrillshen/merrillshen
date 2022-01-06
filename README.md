@@ -5,6 +5,7 @@
 - Currently applying for a Master's in Computer/Data Science 
 - Passionate in materialising ideas in both hardware and software 
 - 2022 Goal: Contribute more to open source projects and become a better software engineer
+- Current Projects: Personal Website using Github Pages 
 - Hobbies: 3D Printing and Cooking
 
 ## Lets Connect  ✉️
