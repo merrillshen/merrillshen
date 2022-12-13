@@ -5,7 +5,7 @@
 - Incoming M.Eng in Computer Science at Cornell University (Class of 2023) 
 - Passionate in materialising ideas in both hardware and software 
 - 2022 Goal: Learn the likes of a software engineer
-- Current Projects: Interning with Dell 
+- Current Projects: Personal Website 
 - Hobbies: 3D Printing and Cooking
 
 ## Lets Connect  ✉️
