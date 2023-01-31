@@ -2,10 +2,10 @@
 
 - Professional Problem Solver
 - B.Eng Mechanical Engineer at Imperial College London (Class of 2022)
-- Incoming M.Eng in Computer Science at Cornell University (Class of 2023) 
+- M.Eng in Computer Science at Cornell University (Class of 2023) 
 - Passionate in materialising ideas in both hardware and software 
-- 2022 Goal: Learn the likes of a software engineer
-- Current Projects: Personal Website 
+- 2023 Goal: Improve my fundamentals and grow as a software engineer
+- Current Projects: Personal Website, and honestly just studying  
 - Hobbies: 3D Printing and Cooking
 
 ## Lets Connect  ✉️
