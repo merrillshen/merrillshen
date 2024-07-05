@@ -1,12 +1,11 @@
 ## About Me :standing_man:
 
 - Professional Problem Solver
-- B.Eng Mechanical Engineer at Imperial College London (Class of 2022)
 - M.Eng in Computer Science at Cornell University (Class of 2023) 
-- Passionate in materialising ideas in both hardware and software 
-- 2023 Goal: Improve my fundamentals and grow as a software engineer
-- Current Projects: Personal Website, and honestly just studying  
-- Hobbies: 3D Printing and Cooking
+- B.Eng Mechanical Engineer at Imperial College London (Class of 2022)
+- Passionate in materialising ideas in both hardware and software, open to work! 
+- Current Project: Building a system with React, Python, RabbitMQ/Firebase, Wear OS and iOS components
+- Hobbies: Cooking n Learnin
 
 ## Lets Connect  ✉️
 
@@ -16,8 +15,11 @@
 
 <br />
 
-## Languages and Tools  💻
+## Languages and Tools Experience 💻
 
+<img align="left" alt="Typescript" width="26px" src="https://static-00.iconduck.com/assets.00/typescript-icon-icon-1024x1024-vh3pfez8.png" />
+<img align="left" alt="Javascript" width="26px" src="https://static-00.iconduck.com/assets.00/javascript-js-icon-2048x2048-nyxvtvk0.png" />
+<img align="left" alt="React" width="26px" src="https://static-00.iconduck.com/assets.00/react-icon-512x512-u6e60ayf.png" />
 <img align="left" alt="Python" width="26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" />
 <img align="left" alt="C" width="26px" src="https://user-images.githubusercontent.com/50651325/148184331-a07132c5-6ef0-458f-a87b-19f82971b088.png" />
 <img align="left" alt="Golang" width="26px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/golang_logo_icon_171073.png" />
